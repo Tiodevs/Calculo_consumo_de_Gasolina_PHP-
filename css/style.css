@@ -1,0 +1,39 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(87, 86, 86);
+    color: #fff;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;    
+    justify-content: center;
+    flex-wrap: wrap;
+    min-height: 95vh;
+}
+
+body footer{
+    background-color: aqua;
+    width: 100vw;
+}
+
+body form{
+    border-style:solid;
+    border-color: rgb(227, 222, 222);
+    padding: 50px;
+    color: #fff;
+}
+
+body form .botaoEntrar{
+    margin-top: 20px;
+    padding: 6px 15px;
+    color: #fff;
+}
+
+
+#cadastroRotasMenu{
+    border: solid;
+    border-color: #fff;
+}

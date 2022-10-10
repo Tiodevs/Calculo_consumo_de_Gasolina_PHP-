@@ -1,0 +1,26 @@
+body div a{
+    border: solid;
+    text-decoration: none;
+    padding: 7px 10px;
+    font-weight: bolder;
+}
+
+body div a:hover{
+    background-color: aquamarine;
+    color: black;
+    border-color: #fff;
+}
+
+.botaoEntrar{
+    border: solid;
+    text-decoration: none;
+    padding: 7px 10px;
+    font-weight: bolder;
+}
+
+.botaoEntrar:hover{
+    background-color: aquamarine;
+    color: black;
+    border-color: #fff;
+}
+
